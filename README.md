@@ -40,3 +40,4 @@ The above example will simulate the propagation of a Gaussian wave-packet.
 
 Note that in many cases, especially in 2D, the program can take significant time to run.
 ______________________________________________
+https://github.com/AlexStratou/Solving-Parabolic-PDEs-with-finite-differences-methods/blob/main/animations/1d_schrodinger/gaussian_wavepacket_1d_alpha_E%3D78.125Vmin%3D-50Vmax%3D91.09.mp4
