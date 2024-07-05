@@ -41,3 +41,7 @@ The above example will simulate the propagation of a Gaussian wave-packet.
 Note that in many cases, especially in 2D, the program can take significant time to run.
 ______________________________________________
 
+
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/73cf3b3f-7c44-44d0-9904-6f2a0d3bc387
+
+
