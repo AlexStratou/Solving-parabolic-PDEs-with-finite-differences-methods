@@ -42,11 +42,39 @@ Note that in many cases, especially in 2D, the program can take significant time
 ______________________________________________
 
 ### Examples
-1. 1d Alpha radiation
+1. 1D alpha radiation
+
 https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/73cf3b3f-7c44-44d0-9904-6f2a0d3bc387
 
-2. 1D Scattering by a step-potential
+2. 1D scattering by a step-potential
+
+
 https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/67b623a5-a7f0-403d-834b-e52742ec7a18
+
+3. Particle in a box time-evolution
+
+
+
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/db9936d9-471a-4992-a1f3-d28d87ef1d28
+
+
+
+
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/40ed24c5-6a5b-4459-b868-e709116855f6
+
+4. 2D diffusion
+
+
+
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/a9859500-c8f8-470d-9361-55b4fef2cfd5
+
+
+
+5. 2D double-slit experiment
+
+
+
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/d2dff9e7-16ed-4bc4-a8e5-a9462be6367c
 
 
 
