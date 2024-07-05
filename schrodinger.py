@@ -195,7 +195,7 @@ class Schrodinger_2d:
         """
         self.V = np.zeros((self.Nxy,self.Nxy), dtype = np.complex64)
         self.V[:,:] = V(self.x, self.y) #potential
-        Vref=200
+        Vref=200  # A potential to be applied on the bountary to enforce reflective BC. Must be large.
         self.V[:,0] = self.dt * Vref
         self.V[:,self.Nxy-1] = self.dt * Vref
         self.V[0,:] = self.dt * Vref
