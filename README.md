@@ -76,5 +76,10 @@ https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-me
 
 https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/d2dff9e7-16ed-4bc4-a8e5-a9462be6367c
 
+### References
 
+1. Trachanas, S. (2018). *An Introduction to Quantum Physics: A First Course for Physicists, Chemists, Materials Scientists, and Engineers*. Wiley-VCH.
+2. Crank, J., & Nicolson, P. (1947). A practical method for numerical evaluation of solutions of partial differential equations of the heat-conduction type. *Mathematical Proceedings of the Cambridge Philosophical Society, 43*(1), 50-67. doi:10.1017/S0305004100023197
+3. Euler, L. (1768). Institutiones calculi differentialis cum eius usu in analysi finitorum ac doctrina serierum. *IMPENSIS ACADEMIAE IMPERIALIS SCIENTIARUM*. Retrieved from https://archive.org/details/institutionescal00eule
+4. Excellent repo by @artmenlope (https://github.com/artmenlope/double-slit-2d-schrodinger) that partially inspired my 2D Schrodinger Crank-Nicolson scheme.
 
