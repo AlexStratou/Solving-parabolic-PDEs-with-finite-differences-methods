@@ -41,7 +41,12 @@ The above example will simulate the propagation of a Gaussian wave-packet.
 Note that in many cases, especially in 2D, the program can take significant time to run.
 ______________________________________________
 
-
+### Examples
+1. 1d Alpha radiation
 https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/73cf3b3f-7c44-44d0-9904-6f2a0d3bc387
+
+2. 1D Scattering by a step-potential
+https://github.com/AlexStratou/Solving-parabolic-PDEs-with-finite-differences-methods/assets/174814990/67b623a5-a7f0-403d-834b-e52742ec7a18
+
 
 
