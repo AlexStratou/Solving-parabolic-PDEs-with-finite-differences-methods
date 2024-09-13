@@ -28,11 +28,16 @@ As mentioned before the example runfiles provided can be a good starting point f
 
 2. Import the class of the desired solver along with anything you need from the utilities script.
 
-3. Instantiate the simulation, e.g. **sim = Schrodinger\_1d( L = 50., x0=0, T = 10, Nx = 2501, Nt = 10001 )**
+3. Instantiate the simulation, e.g.
+```python
+ sim = Schrodinger_1d( L = 50., x0=0, T = 10, Nx = 2501, Nt = 10001 )
+ ```
 
-4. Use the solver method, e.g. **u = sim.Crank\_Nicolson(lambda x: gaussian\_wave\_packet\_1d(x, lamda=8, center = 10, k0 = 10)  ,
-                       Left\_BC = 0., Right\_BC = 0., BC\_type = 'dirichlet', normalize\_input = True,
-                       V=0)**
+4. Use the solver method, e.g.
+```python
+u = sim.Crank_Nicolson(lambda x: gaussian_wave_packet_1d(x, lamda=8, center = 10, k0 = 10)  ,
+                       Left_BC = 0., Right_BC = 0., BC_type = 'dirichlet', normalize_input = True, V=0)
+```
 
 5. Plot and/or save results e.g. with matplotlib.
 
